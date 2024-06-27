@@ -27,7 +27,7 @@
     "test": "jest tests/test.js",
     "start": "cds-serve",
     "watch-incidents": "cds watch --open incidents/webapp/index.html?sap-ui-xx-viewCache=false"
-    "cds-build": "npm install --include=dev && cds build --production",
+    "cds-build": "npm install --include=dev && cds build --production"
   },
   "cds": {
     "requires": {
